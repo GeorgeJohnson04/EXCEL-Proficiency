@@ -5,8 +5,11 @@ This repository contains various Excel projects and macro-enabled worksheets dem
 
 ## Project Descriptions
 
-### 1. Excel Equations Use Example
-- **File:** `Excel Equations Use Example George Johnson.xlsx`
+### 1. Excel Equations and Pivot Tables Use Example
+- **Files:**
+  - `Excel Equations Use Example George Johnson.xlsx`
+  - `Project_Version_-_EIA_Imports_Data_File-2 - George J`
+  - `Fa24_Laptop_Data_File-1 - George J`
 - **Description:**
   - This file serves as an example of advanced Excel functions and formula applications.
 
