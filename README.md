@@ -11,7 +11,7 @@ This repository contains various Excel projects and macro-enabled worksheets dem
   - `Project_Version_-_EIA_Imports_Data_File-2 - George J`
   - `Fa24_Laptop_Data_File-1 - George J`
 - **Description:**
-  - This file serves as an example of advanced Excel functions and formula applications.
+  - These files serve as an examples of advanced Excel functions, Pivot Tables, and formula applications.
 
 ### 2. Macros for ECON3357 - Fall 2023
 - **Files:**
